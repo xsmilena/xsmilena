@@ -1,14 +1,14 @@
 
-# 👋 Olá! Eu sou a Milena Amorim
+# Olá! Me chamo Milena Amorim
 
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
 
-- 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
-- 📖 Atualmente no **3° ano do Ensino Médio**
-- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
-- ☕ Aprendendo **Programação Oracle - Java Fundamentals**
-- 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
-- 📫 Contato: **silvamendesgiovanna67@gmail.com**
+- 🎓 Quando estou na frente do computador, sinto que minha criatividade se expande e mil possibilidades surgem. 
+- 📖 Atualmente, estou no **3° ano do Ensino Médio - SESI**
+- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas - SENAI**
+- 👩🏻‍💻 Interessada em **....**,
+- 📫 Gmail: **milenamdas@gmail.com**
+- 📞 Whatsapp: **(11) 94327-5479**
 
 ---
 
