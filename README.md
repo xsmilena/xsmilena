@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Milena Amorim!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Milena!" alt="Typing SVG" />
 </p>
 
  <div>
@@ -66,16 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xsmilena&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
-
-## Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 ## 🐍 Contribuições
 
 <div align="center">
