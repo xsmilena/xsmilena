@@ -10,7 +10,7 @@
 - 📖 Atualmente no **3° ano do Ensino Médio - SESI**
 - 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas - SENAI**
 - ☕ Aprendendo **React Native** e **PHP**
-- 📚 Conhecimento: **Power BI**, certificado pelo SENAI em 2024
+- 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
 - 👩🏻‍💻 Interessada em **....**
 - 📫 Contato: **milenamdas@gmail.com*
 
