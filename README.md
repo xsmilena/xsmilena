@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Brenda!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Milena Amorim!" alt="Typing SVG" />
 </p>
 
  <div>
 
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
-- 🎓 Explorando o universo da computação com foco em desenvolvimento, inovação e aprendizado contínuo! 
-- 📖 Atualmente no **3° ano do Ensino Médio**
-- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
-- ☕ Aprendendo **Phyton** e **React Native**
-- 📚 Conhecimento: **Power BI**, certificado pelo SENAI
-- 👩🏻‍💻 Interessada em **Engenharia da Computação**, integrando hardware e software para desenvolver soluções tecnológicas inovadoras. 
-- 📫 Contato: **bbrenda.senai@gmail.com**
+- 🎓 Quando estou na frente do computador, sinto que minha criatividade se expande e mil possibilidades surgem
+- 📖 Atualmente no **3° ano do Ensino Médio - SESI**
+- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas - SENAI**
+- ☕ Aprendendo **Phyton**, **React Native** e **PHP**
+- 📚 Conhecimento: **Power BI**, certificado pelo SENAI em 2024
+- 👩🏻‍💻 Interessada em **....**
+- 📫 Contato: **milenamdas@gmail.com*
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -61,9 +61,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreOliv&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsmilena&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=BreOliv&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xsmilena&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 
