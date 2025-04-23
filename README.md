@@ -1,7 +1,7 @@
 
 # 🌸 Olá! Me chamo Milena Amorim 
 
-<img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
+<img   height=150px width=150px align="right" src="[https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif](https://i.pinimg.com/736x/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.jpg)" />
 
 - 🎓 Quando estou na frente do computador, sinto que minha criatividade se expande e mil possibilidades surgem. 
 - 📖 Atualmente, estou no **3° ano do Ensino Médio - SESI**
