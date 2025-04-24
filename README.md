@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6fa8dc&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Milena!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=ffcbdb&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Milena!" alt="Typing SVG" />
 </p>
 
  <div>
-
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
 - 🎓 Quando estou na frente do computador, sinto que minha criatividade se <br> expande e mil possibilidades surgem
