@@ -62,7 +62,7 @@
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9eimO5lZLpyM-qYudMVu6KTPj4U2RL715g&s" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsG4xl7qSs8fhWW5uUMKqTZbf4N74-mTYLw&s" 
 />
 .
 ## 📊 Estatísticas do GitHub
