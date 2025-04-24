@@ -63,8 +63,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" 
-/>
-
+/>.
 
 ## 📊 Estatísticas do GitHub
 
