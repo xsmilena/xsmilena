@@ -12,7 +12,8 @@
 - ☕ Aprendendo **React Native** e **PHP**
 - 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
 - 👩🏻‍💻 Interessada em **....**
-- 📫 Contato: **milenamdas@gmail.com*
+- 📫 Contato: **milenamdas@gmail.com**
+- 📱 Whatsapp: (11) 94327-5479
 
 ### 🤖 Linguagens e Tecnologias
 
