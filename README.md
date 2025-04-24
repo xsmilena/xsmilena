@@ -8,7 +8,7 @@
 
 - 🎓 Quando estou na frente do computador, sinto que minha criatividade se expande e mil possibilidades surgem
 - 📖 Atualmente no **3° ano do Ensino Médio - SESI**
-- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas - SENAI**
+- 💻 Cursando **3° semestre Técnico em Desenvolvimento de Sistemas - SENAI**
 - ☕ Aprendendo **React Native** e **PHP**
 - 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
 - 👩🏻‍💻 Interessada em **....**
@@ -55,6 +55,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.cdnlogo.com/logos/m/47/mysql.svg" 
 />
 .
 ## 📊 Estatísticas do GitHub
