@@ -6,7 +6,7 @@
 
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
-- 🎓 Quando estou na frente do computador, sinto que minha criatividade se expande e mil possibilidades surgem
+- 🎓 Quando estou na frente do computador, sinto que minha criatividade se <br> expande e mil possibilidades surgem
 - 📖 Atualmente no **3° ano do Ensino Médio - SESI**
 - 💻 Cursando **3° semestre Técnico em Desenvolvimento de Sistemas - SENAI**
 - ☕ Aprendendo **React Native** e **PHP**
