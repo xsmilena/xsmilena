@@ -58,12 +58,12 @@
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" 
-/>.
+/>
 <br>
 ## 📊 Estatísticas do GitHub
 
