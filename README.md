@@ -7,10 +7,10 @@
 
 - 🎓 Quando estou na frente do computador, sinto que minha criatividade se <br> expande e mil possibilidades surgem
 - 📖 Atualmente no **3° ano do Ensino Médio - SESI**
-- 💻 Cursando **3° semestre Técnico em Desenvolvimento de Sistemas - SENAI**
+- 💻 Cursando o **3° semestre Técnico em Desenvolvimento de Sistemas - SENAI**
 - ☕ Aprendendo **React Native** e **PHP**
 - 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
-- 👩🏻‍💻 Interessada em **....**
+- 👩🏻‍💻 Interessada em **Engenharia de Software**
 - 📫 Contato: **milenamdas@gmail.com**
 - 📱 Whatsapp: (11) 94327-5479
 
