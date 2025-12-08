@@ -7,7 +7,7 @@
 
 - 🎓 Quando estou na frente do computador, sinto que minha criatividade se <br> expande e mil possibilidades surgem
 - 📖 Ensino Médio **completo - SESI 240**
-- 💻 Técnica em **Desenvolvimento de Sistemas - SENAI**
+- 💻 Técnico em **Desenvolvimento de Sistemas - SENAI**
 - ☕ Habilidades em **IoT** e **Desenvolvimento de Software**
 - 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
 - 👩🏻‍💻 Interessada em **Engenharia de Software** ou **Ciência da Computação**
