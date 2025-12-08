@@ -6,13 +6,13 @@
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
 - 🎓 Quando estou na frente do computador, sinto que minha criatividade se <br> expande e mil possibilidades surgem
-- 📖 Ensino Médio completo - SESI 240**
-- 💻 Técnica em Desenvolvimento de Sistemas - SENAI**
+- 📖 Ensino Médio **completo - SESI 240**
+- 💻 Técnica em **Desenvolvimento de Sistemas - SENAI**
 - ☕ Habilidades em **IoT** e **Desenvolvimento de Software**
 - 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
-- 👩🏻‍💻 Interessada em **Engenharia de Software ou Ciência da Computação**
+- 👩🏻‍💻 Interessada em **Engenharia de Software** ou **Ciência da Computação**
 - 📫 Contato: **milenamdas@gmail.com**
-- 📱 Whatsapp: (11) 94327-5479
+- 📱 Whatsapp: **(11) 94327-5479**
 
 ### 🤖 Linguagens e Tecnologias
 
