@@ -5,12 +5,12 @@
  <div>
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"/>
 
-- 🎓 Quando estou na frente do computador, sinto que minha criatividade se <br> expande e mil possibilidades surgem
+- 🎓 Quando estou em frente ao computador, minha criatividade se <br> expande e novas possibilidades surgem a cada linha de código.
 - 📖 Ensino Médio **completo - SESI 240**
-- 💻 Técnico em **Desenvolvimento de Sistemas - SENAI**
-- ☕ Habilidades em **IoT** e **Desenvolvimento de Software**
-- 📚 Conhecimento: **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
-- 👩🏻‍💻 Interessada em **Engenharia de Software** ou **Ciência da Computação**
+- 💻 Técnica em **Desenvolvimento de Sistemas - SENAI**
+- ☕ Experiência em **IoT** e **Desenvolvimento de Software**
+- 📚 Conhecimentos em **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
+- 👩🏻‍💻 Inciando o Bacharelado em Ciência da Computação - SPTech School
 - 📫 Contato: **milenamdas@gmail.com**
 - 📱 Whatsapp: **(11) 94327-5479**
 
