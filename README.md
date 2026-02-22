@@ -10,7 +10,7 @@
 - 💻 Técnica em **Desenvolvimento de Sistemas - SENAI**
 - ☕ Experiência em **IoT** e **Desenvolvimento de Software**
 - 📚 Conhecimentos em **Power BI** e **Excel Básico**, certificado pelo SENAI em 2024
-- 👩🏻‍💻 Inciando o Bacharelado em Ciência da Computação - SPTech School
+- 👩🏻‍💻 Iniciando o Bacharelado em Ciência da Computação - SPTech School
 - 📫 Contato: **milenamdas@gmail.com**
 - 📱 Whatsapp: **(11) 94327-5479**
 
